@@ -61,15 +61,4 @@ Click **GESTURES OFF** (or press `G`) and allow camera access, then:
 See `SETUP.md` for full local setup and how to make this yours if you clone
 or fork it further.
 
-## Credit
 
-Interface and rendering approach originally built by **Sagar Tamang** as the
-open-source orb UI for his project ULTRON (sagartamang.com/projects/ultron),
-released under the MIT License. This version keeps the original rendering
-engine and interaction logic intact and re-skins the branding/content for
-Anuj Shukla's own AI interface. See `LICENSE` for the original copyright
-notice, retained as required by the MIT License.
-
-## License
-
-MIT — see `LICENSE`.
