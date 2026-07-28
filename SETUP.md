@@ -198,10 +198,3 @@ None of this is required for what exists today to work — it already runs
 fully standalone. This section is here so the "make it my AI" part of the
 idea has a clear, honest next step instead of implying it's already wired up.
 
-## 8. License note
-
-This project is MIT licensed and was originally built by Sagar Tamang as
-the open-source interface for his ULTRON project. The `LICENSE` file's
-original copyright notice is kept intact, as required by the MIT License —
-that's not optional even after a rebrand. You're free to modify and
-redistribute further under the same terms.
